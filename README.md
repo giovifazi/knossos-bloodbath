@@ -14,4 +14,4 @@ Programmers:
 
 SPECIAL THANKS to 
 
-Diego de Angelis (storyline)
+Diego de Angelis (storyline and game setting)
